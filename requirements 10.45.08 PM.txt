@@ -1,0 +1,11 @@
+langchain
+ipykernel
+python-dotenv
+langchain_community
+bs4
+pypdf
+arxiv
+lxml
+chromadb
+sentence_transformers
+langchain_huggingface
